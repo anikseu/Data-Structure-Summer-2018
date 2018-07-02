@@ -1,7 +1,4 @@
-#include <iostream>
-#include<cstdlib>
 #include<bits/stdc++.h>
-#include <ctime> // for generating random number
 using namespace std;
 
 int binary_search(int arr[], int l, int r, int x){
