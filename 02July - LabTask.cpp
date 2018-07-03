@@ -1,3 +1,7 @@
+// Task: An array named X given- {2,1,7,5,4,3,2}; Sort this array using insertion sort.  
+// Implement linear search for this array. 
+// (Optional: Binary Search implementation) 
+
 #include<bits/stdc++.h>
 using namespace std;
 
